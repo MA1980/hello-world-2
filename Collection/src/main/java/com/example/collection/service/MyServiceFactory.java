@@ -11,4 +11,8 @@ public class MyServiceFactory {
 	@Autowired
 	private List<MyService> myServices;
 	
+	void test() {
+		
+	}
+	
 }
